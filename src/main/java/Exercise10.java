@@ -2,9 +2,6 @@
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 Carolina Duarte
  *
- * Subtotal: $64.00
-Tax: $3.52
-Total: $67.52
  */
 
 import java.util.Scanner;
